@@ -1,4 +1,4 @@
-* Facebook Hackercup Tester
+# Facebook Hackercup Tester
 A simple tester to ease rapid testing during the HackerCup competitions.
 
 1.  Easy debug functionality  
@@ -6,11 +6,11 @@ A simple tester to ease rapid testing during the HackerCup competitions.
 3.  Easily switch between debug and "result mode"  
 4.  Automatically shows runtime in ms in debug mode  
 
-** Installation
+## Installation
 1. git clone  into your working director (e.g. .../Billboard/ )
 2. Create a new .js file and go to the Usage section
 
-** Usage
+## Usage
 Use the following template in your .js file.  I use "index.js".
 
 	var tester = require ("./tester.js"),
@@ -34,7 +34,7 @@ Use the following template in your .js file.  I use "index.js".
 		callback(myResult);
 	}
 
-** Preview
+## Preview
 Debug output looks like this:
 
 	====================
