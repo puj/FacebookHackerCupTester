@@ -7,7 +7,7 @@ A simple tester to ease rapid testing during the HackerCup competitions.
 4.  Automatically shows runtime in ms in debug mode  
 
 ## Installation
-1. git clone  into your working director (e.g. .../Billboard/ )
+1. "git clone git@github.com:puj/FacebookHackerCupTester.git"  into your working director (e.g. .../Billboard/ )
 2. Create a new .js file and go to the Usage section
 
 ## Usage
